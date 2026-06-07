@@ -22,8 +22,25 @@ The program allows inserting 3 elements from the user and then prints the **top 
 ---
 
 ## 💻 Program
-Add Code Here
+```
+stack = []
 
+stack.append('a')
+stack.append('b')
+stack.append('c')
+
+print('Initial stack')
+print(stack)
+
+print('\nElements popped from stack:')
+print(stack.pop())
+
+
+print('\nStack after elements are popped:')
+print(stack)
+```
 ## Output
+<img width="732" height="324" alt="image" src="https://github.com/user-attachments/assets/0f71503d-b023-41a4-86eb-9356c62875a9" />
 
 ## Result
+Thus the program is excuted and verified.
